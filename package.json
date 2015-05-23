@@ -1,0 +1,10 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wrenm003/Group-Game-Project.git"
+  },
+  "name": "SnailsBattleground",
+  "author": "Matthew Wren, Christina Malcolm, Romain Cerovic",
+  "version": "0.0.1",
+  "dependencies": {}
+}
